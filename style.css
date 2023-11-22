@@ -1,0 +1,50 @@
+.link a {
+
+    text-decoration: none;
+    font-weight: 800;
+    background-color: #d90b0b;
+    color: wheat;
+}
+
+
+
+
+.first-heading {
+    background-color: #e87dd1;
+    text-align: center;
+    height: 70px;
+    width: 100%;
+    color: #d90b0b;
+}
+
+.color-1 {
+    background-color: chartreuse;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#s {
+    text-decoration: line-through;
+    color: red;
+}
+
+h2 {
+    text-decoration: underline;
+    text-align: center;
+    color: rgb(114, 62, 193);
+}
+
+#ss {
+    text-decoration: double;
+    color: red;
+}
+
+.text-1 {
+    text-transform: capitalize;
+}
+
+.text-2 {
+    line-height: 150px;
+    background-color: aqua;
+    color: rgb(0, 0, 0);
+}
